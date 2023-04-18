@@ -1,0 +1,5 @@
+C:\Users\seafr\source\repos\Assign_TestingS00165540\obj\Debug\net6.0\Assign_TestingS00165540.csproj.AssemblyReference.cache
+C:\Users\seafr\source\repos\Assign_TestingS00165540\obj\Debug\net6.0\Assign_TestingS00165540.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seafr\source\repos\Assign_TestingS00165540\obj\Debug\net6.0\Assign_TestingS00165540.AssemblyInfoInputs.cache
+C:\Users\seafr\source\repos\Assign_TestingS00165540\obj\Debug\net6.0\Assign_TestingS00165540.AssemblyInfo.cs
+C:\Users\seafr\source\repos\Assign_TestingS00165540\obj\Debug\net6.0\Assign_TestingS00165540.csproj.CoreCompileInputs.cache
