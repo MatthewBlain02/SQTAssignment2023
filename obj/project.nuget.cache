@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yjSsFgZiU74hc8DjMKr5MQs9SGdIcJQ012qeClNVuMmjYki1HfTwqNZRMPpwxU/pQcVRNi+xtXjvIfPvmkDs/g==",
+  "dgSpecHash": "Wk0sho5yZf0S63kTmkV1n3HzTa+G7ldgXCyf7p1EKwYu8dtRFKq6pAFV6m1OAY9IvWog8FAVQznlJAV0GGYsXw==",
   "success": true,
   "projectFilePath": "C:\\Users\\seafr\\Source\\Repos\\SQTAssignment2023\\Assign_TestingS00165540.csproj",
   "expectedPackageFiles": [
@@ -17,7 +17,7 @@
     "C:\\Users\\seafr\\.nuget\\packages\\nuget.frameworks\\5.11.0\\nuget.frameworks.5.11.0.nupkg.sha512",
     "C:\\Users\\seafr\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
     "C:\\Users\\seafr\\.nuget\\packages\\nunit3testadapter\\4.5.0-alpha.4\\nunit3testadapter.4.5.0-alpha.4.nupkg.sha512",
-    "C:\\Users\\seafr\\.nuget\\packages\\stripe.net\\41.11.0\\stripe.net.41.11.0.nupkg.sha512",
+    "C:\\Users\\seafr\\.nuget\\packages\\stripe.net\\41.14.0-beta.2\\stripe.net.41.14.0-beta.2.nupkg.sha512",
     "C:\\Users\\seafr\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
     "C:\\Users\\seafr\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
     "C:\\Users\\seafr\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",

@@ -414,7 +414,7 @@
           "build/netcoreapp3.1/NUnit3TestAdapter.props": {}
         }
       },
-      "Stripe.net/41.11.0": {
+      "Stripe.net/41.14.0-beta.2": {
         "type": "package",
         "dependencies": {
           "Newtonsoft.Json": "12.0.3",
@@ -1181,10 +1181,10 @@
         "nunit_256.png"
       ]
     },
-    "Stripe.net/41.11.0": {
-      "sha512": "4DgbaFCGHDcFB+EU1Jbrh89hy/v/MTF510Sgmj288jCh1e5QORhGxOTlwAxcaZilYqBo08ei3ru92mMWjax+Fg==",
+    "Stripe.net/41.14.0-beta.2": {
+      "sha512": "h1sWtmpebHhzqVlI/F58yEGZl4PrQ+a2o0d/UKnaMS451gQAlpeVPPqZZBQnlyvToPyaS/9wlWW/Y967ofeYxw==",
       "type": "package",
-      "path": "stripe.net/41.11.0",
+      "path": "stripe.net/41.14.0-beta.2",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1200,7 +1200,7 @@
         "lib/netcoreapp3.1/Stripe.net.xml",
         "lib/netstandard2.0/Stripe.net.dll",
         "lib/netstandard2.0/Stripe.net.xml",
-        "stripe.net.41.11.0.nupkg.sha512",
+        "stripe.net.41.14.0-beta.2.nupkg.sha512",
         "stripe.net.nuspec"
       ]
     },
@@ -1443,7 +1443,7 @@
       "Moq >= 4.18.4",
       "NUnit >= 3.13.3",
       "NUnit3TestAdapter >= 4.5.0-alpha.4",
-      "Stripe.net >= 41.11.0"
+      "Stripe.net >= 41.14.0-beta.2"
     ]
   },
   "packageFolders": {
@@ -1453,11 +1453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\seafr\\source\\repos\\SQTAssignment2023\\Assign_TestingS00165540.csproj",
+      "projectUniqueName": "C:\\Users\\seafr\\Source\\Repos\\SQTAssignment2023\\Assign_TestingS00165540.csproj",
       "projectName": "Assign_TestingS00165540",
-      "projectPath": "C:\\Users\\seafr\\source\\repos\\SQTAssignment2023\\Assign_TestingS00165540.csproj",
+      "projectPath": "C:\\Users\\seafr\\Source\\Repos\\SQTAssignment2023\\Assign_TestingS00165540.csproj",
       "packagesPath": "C:\\Users\\seafr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\seafr\\source\\repos\\SQTAssignment2023\\obj\\",
+      "outputPath": "C:\\Users\\seafr\\Source\\Repos\\SQTAssignment2023\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1509,7 +1509,7 @@
           },
           "Stripe.net": {
             "target": "Package",
-            "version": "[41.11.0, )"
+            "version": "[41.14.0-beta.2, )"
           }
         },
         "imports": [

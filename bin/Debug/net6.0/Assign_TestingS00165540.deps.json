@@ -12,7 +12,7 @@
           "Moq": "4.18.4",
           "NUnit": "3.13.3",
           "NUnit3TestAdapter": "4.5.0-alpha.4",
-          "Stripe.net": "41.11.0"
+          "Stripe.net": "41.14.0-beta.2"
         },
         "runtime": {
           "Assign_TestingS00165540.dll": {}
@@ -351,15 +351,15 @@
         }
       },
       "NUnit3TestAdapter/4.5.0-alpha.4": {},
-      "Stripe.net/41.11.0": {
+      "Stripe.net/41.14.0-beta.2": {
         "dependencies": {
           "Newtonsoft.Json": "13.0.1",
           "System.Configuration.ConfigurationManager": "6.0.0"
         },
         "runtime": {
           "lib/net6.0/Stripe.net.dll": {
-            "assemblyVersion": "41.11.0.0",
-            "fileVersion": "41.11.0.0"
+            "assemblyVersion": "41.14.0.0",
+            "fileVersion": "41.14.0.0"
           }
         }
       },
@@ -570,12 +570,12 @@
       "path": "nunit3testadapter/4.5.0-alpha.4",
       "hashPath": "nunit3testadapter.4.5.0-alpha.4.nupkg.sha512"
     },
-    "Stripe.net/41.11.0": {
+    "Stripe.net/41.14.0-beta.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-4DgbaFCGHDcFB+EU1Jbrh89hy/v/MTF510Sgmj288jCh1e5QORhGxOTlwAxcaZilYqBo08ei3ru92mMWjax+Fg==",
-      "path": "stripe.net/41.11.0",
-      "hashPath": "stripe.net.41.11.0.nupkg.sha512"
+      "sha512": "sha512-h1sWtmpebHhzqVlI/F58yEGZl4PrQ+a2o0d/UKnaMS451gQAlpeVPPqZZBQnlyvToPyaS/9wlWW/Y967ofeYxw==",
+      "path": "stripe.net/41.14.0-beta.2",
+      "hashPath": "stripe.net.41.14.0-beta.2.nupkg.sha512"
     },
     "System.Configuration.ConfigurationManager/6.0.0": {
       "type": "package",
