@@ -28,7 +28,10 @@ steps:
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
 
-- task: VSTest@2
+
+- task: DotNetCoreCLI@2
   inputs:
-    platform: '$(buildPlatform)'
-    configuration: '$(buildConfiguration)'
+    command: 'test'
+    projects: '**/Assign_TestingS00165540.csproj'
+    arguments: '**/bin/release/net6.0/Assign_TestingS00165540.runtimeconfig.json'
+    testRunTitle: 'VSTest@2'
