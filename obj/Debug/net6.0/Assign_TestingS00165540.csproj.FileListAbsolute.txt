@@ -1,8 +1,3 @@
-C:\Users\seafr\source\repos\Assign_TestingS00165540\obj\Debug\net6.0\Assign_TestingS00165540.csproj.AssemblyReference.cache
-C:\Users\seafr\source\repos\Assign_TestingS00165540\obj\Debug\net6.0\Assign_TestingS00165540.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\seafr\source\repos\Assign_TestingS00165540\obj\Debug\net6.0\Assign_TestingS00165540.AssemblyInfoInputs.cache
-C:\Users\seafr\source\repos\Assign_TestingS00165540\obj\Debug\net6.0\Assign_TestingS00165540.AssemblyInfo.cs
-C:\Users\seafr\source\repos\Assign_TestingS00165540\obj\Debug\net6.0\Assign_TestingS00165540.csproj.CoreCompileInputs.cache
 C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\testhost.dll
 C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\testhost.exe
 C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\NUnit3.TestAdapter.dll
@@ -17,6 +12,16 @@ C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Assign_TestingS00
 C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Assign_TestingS00165540.pdb
 C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Castle.Core.dll
 C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
 C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
 C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
 C:\Users\seafr\Source\Repos\SQTAssignment2023\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
